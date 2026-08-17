@@ -8,7 +8,7 @@
 
 ---
 
-<!-- Tabela de 2 Colunas: Informações e GIF da Cruz -->
+<!-- Tabela de 2 Colunas: Informações e Imagem da Cruz -->
 <table>
   <tr>
     <td width="55%" valign="middle">
@@ -18,8 +18,8 @@
       <br>
     </td>
     <td width="45%" align="center" valign="middle">
-      <!-- GIF da Cruz 3D -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHgzNDU2eHRoMDRicndpOHZ4eWhmbml6eWRicHRvYnd3MW8xdnV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgyLlpe3YCkm4/giphy.gif" width="180px">
+      <!-- Link direto para imagem da Cruz 3D em fundo preto -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Latin%20Cross.png" width="140px">
     </td>
   </tr>
 </table>
