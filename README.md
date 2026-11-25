@@ -1,8 +1,6 @@
 <img src="banner.svg" alt="Caio Bazzo Melo, estudante de desenvolvimento de sistemas, com foco em embarcados, IoT, redes e segurança" width="100%">
 
-Olá, eu sou o Caio.
-
-Estudo desenvolvimento de sistemas no SENAI e faço o curso da Oracle Academy. Meu foco hoje é ligar software a hardware: programação em C, estruturas de dados, Arduino e ESP32, além de fundamentos de redes e segurança da informação.
+<img src="terminal.svg" alt="Terminal animado: caio bazzo melo, estudante de desenvolvimento de sistemas no SENAI e na Oracle Academy, com foco em ligar software a hardware. Stack: C, C++, Python, JavaScript, Arduino, ESP32 e Git." width="100%">
 
 <img src="divider.svg" alt="" width="100%">
 
