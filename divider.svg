@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 28" width="1280" height="28" role="presentation" aria-hidden="true">
-<path d="M24,14 L560,14 L574,4 L706,4 L720,14 L1256,14" fill="none" stroke="#C9A24B" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="16" cy="14" r="6" fill="#C9A24B"/><circle cx="16" cy="14" r="2.5" fill="#0A3326"/>
-<circle cx="1264" cy="14" r="6" fill="#C9A24B"/><circle cx="1264" cy="14" r="2.5" fill="#0A3326"/>
+<style>@keyframes pu{from{stroke-dashoffset:30}to{stroke-dashoffset:-1000}}.p{fill:none;stroke:#FFF1CC;stroke-width:3;stroke-linecap:round;stroke-dasharray:30 970;animation:pu 5s linear infinite}@media (prefers-reduced-motion:reduce){.p{display:none}}</style>
+<path d="M24 14H560l14 -10h132l14 10H1256" fill="none" stroke="#C9A24B" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<path class="p" pathLength="1000" d="M24 14H560l14 -10h132l14 10H1256"/>
+<circle cx="16" cy="14" r="6" fill="#C9A24B"/><circle cx="16" cy="14" r="2.5" fill="#050F0B"/><circle cx="1264" cy="14" r="6" fill="#C9A24B"/><circle cx="1264" cy="14" r="2.5" fill="#050F0B"/>
 </svg>
